@@ -1,0 +1,23 @@
+{
+  "Carro": {
+    "1h": 20,
+    "2h": 40,
+    "3h": 50,
+    "hora_adicional": 10,
+    "diaria": 120
+  },
+  "Moto": {
+    "1h": 10,
+    "2h": 20,
+    "3h": 25,
+    "hora_adicional": 5,
+    "diaria": 60
+  },
+  "Caminhao/Van": {
+    "1h": 30,
+    "2h": 60,
+    "3h": 80,
+    "hora_adicional": 15,
+    "diaria": 150
+  }
+}
