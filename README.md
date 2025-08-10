@@ -19,4 +19,3 @@ Aplicativo de **gestão de estacionamento via terminal**, que registra a entrada
 - **datetime** → Manipulação de horários e cálculo de tempo estacionado.
 - **time** → Controle de timestamps e cálculos em segundos.
 - **json** → Leitura e escrita dos arquivos de dados.
-- **Python padrão (I/O)** → `input()` e `print()` para interação no console.
